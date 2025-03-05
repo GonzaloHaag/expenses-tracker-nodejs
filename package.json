@@ -1,0 +1,21 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Ejercicio para manejar finanzas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finanzas",
+    "finanaza",
+    "expenses",
+    "tracker",
+    "ejercicio"
+  ],
+  "author": "Gonzalo Haag",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}

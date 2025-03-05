@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "Date": "2024-02-2",
+    "Description": "Launching",
+    "Amount": 50
+  },
+  {
+    "ID": 2,
+    "Date": "2023-04-10",
+    "Description": "Dinnering",
+    "Amount": 20
+  },
+  {
+    "ID": 3,
+    "Date": "2024-05-20",
+    "Description": "Commandons",
+    "Amount": 10
+  },
+  {
+    "ID": 4,
+    "Date": "2025-03-05",
+    "Description": "Lunch",
+    "Amount": 75
+  }
+]
